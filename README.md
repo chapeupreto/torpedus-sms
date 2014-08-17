@@ -2,6 +2,8 @@
 
 Esse projeto consiste em uma API simples desenvolvida em PHP que pode ser usada para enviar mensagens _SMS_ utilizando o serviço fornecido pela empresa **Torpedus** (www.torpedus.com.br)
 
+# Motivação
+
 # Requisitos
 
 - PHP 5+
