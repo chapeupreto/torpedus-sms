@@ -49,4 +49,8 @@ try {
 
 - Não é necessário remover a acentuação da mensagem a ser disparada via SMS. A API já realiza esse tratamento! :)
 
--  O tamanho máximo da mensagem a ser enviada deve ser de 304 caracteres.
+-  O tamanho máximo da mensagem a ser enviada deve ser de 304 caracteres.o
+
+# Licença
+
+Essa API é open-source e utiliza a licença [MIT](http://opensource.org/licenses/MIT "MIT license")
