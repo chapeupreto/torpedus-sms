@@ -51,6 +51,14 @@ try {
 
 -  O tamanho máximo da mensagem a ser enviada deve ser de 304 caracteres.
 
+# Aplicações
+
+O uso de SMS está sendo cada vez mais utilizado no mundo corporativo e possui uma variedade de aplicações:
+
+- Cobrança bancária avisando das parcelas a vencer ou já vencidas
+- Campanhas de marketing
+- Monitoramento e alertas de sistemas conectados à Internet
+
 # Licença
 
 Essa API é open-source e utiliza a licença [MIT](http://opensource.org/licenses/MIT "MIT license")
