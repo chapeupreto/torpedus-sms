@@ -4,7 +4,14 @@ Esse projeto consiste em uma API simples desenvolvida em PHP que pode ser usada 
 
 # Motivação
 
+Atualmente a empresa [Torpedus](www.torpedus.com.br) não possui uma API própria em PHP para enviar as mensagens via SMS. O método que eles utilizam até então é fazer chamadas ao _webservices_ deles usando a URL com os parâmetros dos dados de _usuário_, _senha_, _telefone do destinatário_ e a _mensagem_ via requisição _HTTP GET_ (exemplo: _http://torpedus.com.br/sms/index.php?app=webservices&u=LOGIN&p=SENHA&ta=pv&to=55dddCELULAR&msg=mensagem+ou+variaveis+sempre+sem+acentos_)
+
+Essa prática, apesar de funcionar, possui algumas desvantagens, como por exemplo, dependendo do ambiente onde for utilizada, os dados de acesso (i.e., _usuário_ e _senha_) poderão ficar expostos, comprometendo assim a segurança dessas informações.
+
+Pensando assim, surgiu a necessidade de se criar essa API em PHP justamente para encapsular essas informações a fim de prover uma maior segurança, bem como fornecer uma interface para fácil de integração com outros sistemas.
+
 # Requisitos
+
 
 - PHP 5+
 - Biblioteca cURL
