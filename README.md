@@ -8,7 +8,7 @@ Atualmente a empresa [Torpedus](www.torpedus.com.br) não possui uma API própri
 
 Essa prática, apesar de funcionar, possui algumas desvantagens, como por exemplo, dependendo do ambiente onde for utilizada, os dados de acesso (i.e., _usuário_ e _senha_) poderão ficar expostos, comprometendo assim a segurança dessas informações.
 
-Pensando assim, surgiu a necessidade de se criar essa API em PHP justamente para encapsular essas informações a fim de prover uma maior segurança, bem como fornecer uma interface para fácil de integração com outros sistemas.
+Pensando assim, surgiu a necessidade de se criar essa API em PHP justamente para encapsular essas informações a fim de prover uma maior segurança, bem como fornecer uma interface para que seja de fácil integração com outros sistemas.
 
 # Requisitos
 
