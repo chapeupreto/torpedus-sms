@@ -53,7 +53,7 @@ try {
 
 # Aplicações
 
-O uso de SMS está sendo cada vez mais utilizado no mundo corporativo e possui uma variedade de aplicações:
+O uso de SMS está sendo cada vez mais utilizado no mundo corporativo e possui uma variedade de aplicações, sendo algumas destas listadas a seguir:
 
 - Cobrança bancária avisando das parcelas a vencer ou já vencidas
 - Campanhas de marketing
